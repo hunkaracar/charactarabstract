@@ -1,0 +1,15 @@
+C:\Nesnetabanlıprogramlamaders\nesnelesson6\nesnelesson6\obj\Debug\net6.0\nesnelesson6.csproj.AssemblyReference.cache
+C:\Nesnetabanlıprogramlamaders\nesnelesson6\nesnelesson6\obj\Debug\net6.0\nesnelesson6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nesnetabanlıprogramlamaders\nesnelesson6\nesnelesson6\obj\Debug\net6.0\nesnelesson6.AssemblyInfoInputs.cache
+C:\Nesnetabanlıprogramlamaders\nesnelesson6\nesnelesson6\obj\Debug\net6.0\nesnelesson6.AssemblyInfo.cs
+C:\Nesnetabanlıprogramlamaders\nesnelesson6\nesnelesson6\obj\Debug\net6.0\nesnelesson6.csproj.CoreCompileInputs.cache
+C:\Nesnetabanlıprogramlamaders\nesnelesson6\nesnelesson6\bin\Debug\net6.0\nesnelesson6.exe
+C:\Nesnetabanlıprogramlamaders\nesnelesson6\nesnelesson6\bin\Debug\net6.0\nesnelesson6.deps.json
+C:\Nesnetabanlıprogramlamaders\nesnelesson6\nesnelesson6\bin\Debug\net6.0\nesnelesson6.runtimeconfig.json
+C:\Nesnetabanlıprogramlamaders\nesnelesson6\nesnelesson6\bin\Debug\net6.0\nesnelesson6.dll
+C:\Nesnetabanlıprogramlamaders\nesnelesson6\nesnelesson6\bin\Debug\net6.0\nesnelesson6.pdb
+C:\Nesnetabanlıprogramlamaders\nesnelesson6\nesnelesson6\obj\Debug\net6.0\nesnelesson6.dll
+C:\Nesnetabanlıprogramlamaders\nesnelesson6\nesnelesson6\obj\Debug\net6.0\refint\nesnelesson6.dll
+C:\Nesnetabanlıprogramlamaders\nesnelesson6\nesnelesson6\obj\Debug\net6.0\nesnelesson6.pdb
+C:\Nesnetabanlıprogramlamaders\nesnelesson6\nesnelesson6\obj\Debug\net6.0\nesnelesson6.genruntimeconfig.cache
+C:\Nesnetabanlıprogramlamaders\nesnelesson6\nesnelesson6\obj\Debug\net6.0\ref\nesnelesson6.dll
